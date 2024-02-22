@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\bin\Debug\net8.0\Calculadora de Média.exe
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\bin\Debug\net8.0\Calculadora de Média.deps.json
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\bin\Debug\net8.0\Calculadora de Média.runtimeconfig.json
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\bin\Debug\net8.0\Calculadora de Média.dll
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\bin\Debug\net8.0\Calculadora de Média.pdb
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.dll
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\refint\Calculadora de Média.dll
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.pdb
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\Calculadora de Média.genruntimeconfig.cache
+C:\Users\guilh\Documents\Projetos C#\Calculadora de Média\obj\Debug\net8.0\ref\Calculadora de Média.dll
